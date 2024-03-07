@@ -1,0 +1,92 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Çœå§ÿÿÿÿÿ8Ÿ´•Äá1
+g	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(‡œÈ‡ùÿÿÿÿ8¥´•Äá1
+h	java:S112Û"FDefine and throw a dedicated exception instead of using a generic one.(‡œÈ‡ùÿÿÿÿ8¦´•Äá1
+c	java:S112æ"FDefine and throw a dedicated exception instead of using a generic one.(ú «ã8¦´•Äá1
+c	java:S112ñ"FDefine and throw a dedicated exception instead of using a generic one.(¸²í³8Îì–Äá1
+i
+java:S11923"LDefine a constant instead of duplicating this literal "Programming" 8 times.(ëÜ´8Ğë›Äá1
+l
+java:S1192&"JDefine a constant instead of duplicating this literal "Good Bye!" 3 times.(Ş„©ûÿÿÿÿ8©´•Äá1
+u
+java:S11927"XDefine a constant instead of duplicating this literal "Management and Analysis" 4 times.(ìƒâô8Ğë›Äá1
+h
+java:S1192T"FDefine a constant instead of duplicating this literal "Islam" 4 times.(¾Ôºøÿÿÿÿ8Ñë›Äá1
+h
+java:S11925"KDefine a constant instead of duplicating this literal "Networking" 6 times.(ñ•“×8Ñë›Äá1
+†
+java:S1192"iDefine a constant instead of duplicating this literal "Pilih nomor menu untuk masuk ke menunya:" 3 times.(ı›ºİ8İöÁÄá1
+j
+java:S1192B"HDefine a constant instead of duplicating this literal "Jakarta" 3 times.(û—º¦ûÿÿÿÿ8Ñë›Äá1
+Œ
+java:S1192~"jDefine a constant instead of duplicating this literal "Pilihan Salah, silahkan pilih angka 1 - 3" 4 times.(‡œÈ‡ùÿÿÿÿ8ª´•Äá1
+7
+java:S1220""Move this file to a named package.8¬´•Äá1
+G	java:S106"+Replace this use of System.out by a logger.(ı›ºİ8½´•Äá1
+L	java:S106"+Replace this use of System.out by a logger.(Ó÷„‘ıÿÿÿÿ8½´•Äá1
+L	java:S106"+Replace this use of System.out by a logger.(ËßÀüÿÿÿÿ8½´•Äá1
+G	java:S106"+Replace this use of System.out by a logger.(Á¢à8½´•Äá1
+G	java:S106"+Replace this use of System.out by a logger.(”¸íÖ8¾´•Äá1
+L	java:S106&"+Replace this use of System.out by a logger.(Ş„©ûÿÿÿÿ8¿´•Äá1
+L	java:S106*"+Replace this use of System.out by a logger.(©Ó·ßşÿÿÿÿ8¿´•Äá1
+t
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿øâ¤ÿÿÿÿÿ8À´•Äá1
+j
+java:S1854;"MRemove this useless assignment to local variable "subjectNetworkAndSecurity".(úÍ“ƒ8À´•Äá1
+q
+java:S1854:"ORemove this useless assignment to local variable "subjectInfrastructureDesign".(æ–…Ïıÿÿÿÿ8À´•Äá1
+l
+java:S18549"JRemove this useless assignment to local variable "subjectJavaFundamental".(áç††ùÿÿÿÿ8À´•Äá1
+i
+java:S18547"LRemove this useless assignment to local variable "subjectProjectManagement".(ìƒâô8À´•Äá1
+k
+java:S18546"NRemove this useless assignment to local variable "subjectDatabaseFundamental".(í®ôÀ8À´•Äá1
+\
+java:S14816"?Remove this unused "subjectDatabaseFundamental" local variable.(í®ôÀ8Á´•Äá1
+Z
+java:S14817"=Remove this unused "subjectProjectManagement" local variable.(ìƒâô8Á´•Äá1
+]
+java:S14819";Remove this unused "subjectJavaFundamental" local variable.(áç††ùÿÿÿÿ8Á´•Äá1
+b
+java:S1481:"@Remove this unused "subjectInfrastructureDesign" local variable.(æ–…Ïıÿÿÿÿ8Á´•Äá1
+[
+java:S1481;">Remove this unused "subjectNetworkAndSecurity" local variable.(úÍ“ƒ8Á´•Äá1
+G	java:S106u"+Replace this use of System.out by a logger.(ı›ºİ8Ç´•Äá1
+G	java:S106v"+Replace this use of System.out by a logger.(ªËñ8È´•Äá1
+G	java:S106w"+Replace this use of System.out by a logger.(÷ò°Ñ8È´•Äá1
+L	java:S106x"+Replace this use of System.out by a logger.(Ê¾Ï«úÿÿÿÿ8È´•Äá1
+G	java:S106y"+Replace this use of System.out by a logger.(²À›Û8È´•Äá1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(ì¬ıòşÿÿÿÿ8É´•Äá1
+M	java:S106"+Replace this use of System.out by a logger.(•ÀÉéşÿÿÿÿ8Ê´•Äá1
+M	java:S106—"+Replace this use of System.out by a logger.(Ş„©ûÿÿÿÿ8Ê´•Äá1
+M	java:S106›"+Replace this use of System.out by a logger.(Î‰À¶ûÿÿÿÿ8Ë´•Äá1
+u
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÿÈ„ôøÿÿÿÿ8Ë´•Äá1
+\
+java:S1854¨">Remove this useless assignment to local variable "subjectUml".(Úâó8Ì´•Äá1
+j
+java:S1854§"LRemove this useless assignment to local variable "subjectProjectManagement".(ìƒâô8Ì´•Äá1
+n
+java:S1854¥"PRemove this useless assignment to local variable "subjectNetworkingFundamental".(ñ•“×8Ì´•Äá1
+k
+java:S1854¤"HRemove this useless assignment to local variable "subjectDataStructure".(·œøòıÿÿÿÿ8Ì´•Äá1
+\
+java:S1481¤"9Remove this unused "subjectDataStructure" local variable.(·œøòıÿÿÿÿ8Î´•Äá1
+_
+java:S1481¥"ARemove this unused "subjectNetworkingFundamental" local variable.(ñ•“×8Î´•Äá1
+[
+java:S1481§"=Remove this unused "subjectProjectManagement" local variable.(ìƒâô8Î´•Äá1
+M
+java:S1481¨"/Remove this unused "subjectUml" local variable.(Úâó8Î´•Äá1
+H	java:S106Ó"+Replace this use of System.out by a logger.(ı›ºİ8Ó´•Äá1
+H	java:S106Ô"+Replace this use of System.out by a logger.(à°Ù8Õ´•Äá1
+M	java:S106Õ"+Replace this use of System.out by a logger.(ÇÂşÂıÿÿÿÿ8Ö´•Äá1
+M	java:S106Ö"+Replace this use of System.out by a logger.(ŠÑˆËıÿÿÿÿ8ÅíšÄá1
+H	java:S106×"+Replace this use of System.out by a logger.(²À›Û8ÅíšÄá1
+M	java:S106á"+Replace this use of System.out by a logger.(ıªøÿÿÿÿ8ÅíšÄá1
+M	java:S106û"+Replace this use of System.out by a logger.(Ş„©ûÿÿÿÿ8ÅíšÄá1
+M	java:S106ÿ"+Replace this use of System.out by a logger.(Î‰À¶ûÿÿÿÿ8•øÁÄá1
+M	java:S106†"+Replace this use of System.out by a logger.(¾ªÇ‘øÿÿÿÿ8•øÁÄá1
+M	java:S106‡"+Replace this use of System.out by a logger.(‘±•şÿÿÿÿ8–øÁÄá1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(¶„õ8–øÁÄá1
+H	java:S106‰"+Replace this use of System.out by a logger.(°°ƒ8–øÁÄá1

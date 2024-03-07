@@ -1,0 +1,33 @@
+
+7
+java:S1220""Move this file to a named package.8˜çÃá1
+^	java:S1070"BConstructor has 11 parameters, which is greater than 7 authorized.(î¨Ôº8ğıÍÄá1
+s
+java:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(äÄÁ§ıÿÿÿÿ8óıÍÄá1
+L	java:S1068"+Replace this use of System.out by a logger.(äÄÁ§ıÿÿÿÿ8“˜çÃá1
+n
+java:S3457?"Q%n should be used in place of \n to produce the platform-specific line separator.(şßêÓ8ôıÍÄá1
+G	java:S106?"+Replace this use of System.out by a logger.(şßêÓ8”˜çÃá1
+n
+java:S3457@"Q%n should be used in place of \n to produce the platform-specific line separator.(¼“Ô¿8õıÍÄá1
+G	java:S106@"+Replace this use of System.out by a logger.(¼“Ô¿8”˜çÃá1
+n
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(²àŒ‡8õıÍÄá1
+G	java:S106A"+Replace this use of System.out by a logger.(²àŒ‡8•˜çÃá1
+s
+java:S3457B"Q%n should be used in place of \n to produce the platform-specific line separator.(À‰Ö»üÿÿÿÿ8õıÍÄá1
+L	java:S106B"+Replace this use of System.out by a logger.(À‰Ö»üÿÿÿÿ8•˜çÃá1
+s
+java:S3457D"Q%n should be used in place of \n to produce the platform-specific line separator.(ËÈ¨ıÿÿÿÿ8öıÍÄá1
+L	java:S106D"+Replace this use of System.out by a logger.(ËÈ¨ıÿÿÿÿ8•˜çÃá1
+s
+java:S3457E"Q%n should be used in place of \n to produce the platform-specific line separator.(àÎ’øÿÿÿÿ8öıÍÄá1
+L	java:S106E"+Replace this use of System.out by a logger.(àÎ’øÿÿÿÿ8•˜çÃá1
+s
+java:S3457F"Q%n should be used in place of \n to produce the platform-specific line separator.(¡Òóóûÿÿÿÿ8öıÍÄá1
+L	java:S106F"+Replace this use of System.out by a logger.(¡Òóóûÿÿÿÿ8–˜çÃá1
+s
+java:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(š½ø¢úÿÿÿÿ8êÃéÃá1
+L	java:S106G"+Replace this use of System.out by a logger.(š½ø¢úÿÿÿÿ8–˜çÃá1
+L	java:S106I"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8–˜çÃá1
+L	java:S106J"+Replace this use of System.out by a logger.(˜ç•Îúÿÿÿÿ8–˜çÃá1

@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8¦ Ãá1
+n
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(ıûÙ®8¾ÿÍÄá1
+G	java:S106A"+Replace this use of System.out by a logger.(ıûÙ®8° Ãá1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÀÿÍÄá1

@@ -1,0 +1,35 @@
+
+7
+java:S1220""Move this file to a named package.8ª¹çÂá1
+c	java:S107("BConstructor has 10 parameters, which is greater than 7 authorized.(‘›ó·ûÿÿÿÿ8¨ÈŸÄá1
+n
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(¼—¢…8¯ÈŸÄá1
+G	java:S106/"+Replace this use of System.out by a logger.(¼—¢…8³¹çÂá1
+n
+java:S34576"Q%n should be used in place of \n to produce the platform-specific line separator.(şßêÓ8±ÈŸÄá1
+G	java:S1066"+Replace this use of System.out by a logger.(şßêÓ8Öõ£Ãá1
+n
+java:S34577"Q%n should be used in place of \n to produce the platform-specific line separator.(¼“Ô¿8´ÈŸÄá1
+G	java:S1067"+Replace this use of System.out by a logger.(¼“Ô¿8×õ£Ãá1
+n
+java:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(²àŒ‡8´ÈŸÄá1
+G	java:S1068"+Replace this use of System.out by a logger.(²àŒ‡8×õ£Ãá1
+s
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(À‰Ö»üÿÿÿÿ8µÈŸÄá1
+L	java:S1069"+Replace this use of System.out by a logger.(À‰Ö»üÿÿÿÿ8Øõ£Ãá1
+s
+java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(ËÈ¨ıÿÿÿÿ8¶ÈŸÄá1
+L	java:S106;"+Replace this use of System.out by a logger.(ËÈ¨ıÿÿÿÿ8Øõ£Ãá1
+s
+java:S3457<"Q%n should be used in place of \n to produce the platform-specific line separator.(àÎ’øÿÿÿÿ8¶ÈŸÄá1
+L	java:S106<"+Replace this use of System.out by a logger.(àÎ’øÿÿÿÿ8Ùõ£Ãá1
+s
+java:S3457="Q%n should be used in place of \n to produce the platform-specific line separator.(¡Òóóûÿÿÿÿ8·ÈŸÄá1
+L	java:S106="+Replace this use of System.out by a logger.(¡Òóóûÿÿÿÿ8Ùõ£Ãá1
+n
+java:S3457>"Q%n should be used in place of \n to produce the platform-specific line separator.(‹ô‰×8¬èªÃá1
+G	java:S106>"+Replace this use of System.out by a logger.(‹ô‰×8Úõ£Ãá1
+L	java:S106@"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Úõ£Ãá1
+L	java:S106A"+Replace this use of System.out by a logger.(‹‹Ñşÿÿÿÿ8Úõ£Ãá1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8¹ÈŸÄá1
